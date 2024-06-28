@@ -190,5 +190,5 @@ input [type="checkbox"]::before::after {
 }
 
 .scroll::-webkit-scrollbar-track {
-    display: none;
+    display: none ;
 }
